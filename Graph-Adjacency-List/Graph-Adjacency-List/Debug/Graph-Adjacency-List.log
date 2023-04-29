@@ -1,0 +1,60 @@
+﻿  main.cpp
+c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\node.h(19): warning C4661: 'Node<int>::Node(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+  c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\node.h(17): note: see declaration of 'Node<int>::Node'
+c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\node.h(19): warning C4661: 'Node<int>::Node(void)': no suitable definition provided for explicit template instantiation request
+  c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\node.h(16): note: see declaration of 'Node<int>::Node'
+c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\adjacencylist.h(20): warning C4661: 'ADJACENCYLIST<T>::ADJACENCYLIST(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+  c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\adjacencylist.h(14): note: see declaration of 'ADJACENCYLIST<T>::ADJACENCYLIST'
+          with
+          [
+              T=int
+          ]
+c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\adjacencylist.h(20): warning C4661: 'void ADJACENCYLIST<T>::insertAtTail(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+  c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\adjacencylist.h(15): note: see declaration of 'ADJACENCYLIST<T>::insertAtTail'
+          with
+          [
+              T=int
+          ]
+c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\adjacencylist.h(20): warning C4661: 'T ADJACENCYLIST<T>::getHead(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+  c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\adjacencylist.h(16): note: see declaration of 'ADJACENCYLIST<T>::getHead'
+          with
+          [
+              T=int
+          ]
+c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\adjacencylist.h(20): warning C4661: 'bool ADJACENCYLIST<T>::isValidPath(std::string)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+  c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\adjacencylist.h(17): note: see declaration of 'ADJACENCYLIST<T>::isValidPath'
+          with
+          [
+              T=int
+          ]
+c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\adjacencylist.h(20): warning C4661: 'void ADJACENCYLIST<T>::printList(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=int
+          ]
+  c:\users\ahmza\source\repos\graph-adjacency-list\graph-adjacency-list\adjacencylist.h(18): note: see declaration of 'ADJACENCYLIST<T>::printList'
+          with
+          [
+              T=int
+          ]
+  Graph-Adjacency-List.vcxproj -> C:\Users\ahmza\source\repos\Graph-Adjacency-List\Debug\Graph-Adjacency-List.exe
